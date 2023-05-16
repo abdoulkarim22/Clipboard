@@ -15,4 +15,6 @@ main{
 header{
     background: url(images/bg-header-desktop.png);
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
 }
