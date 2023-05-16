@@ -1,0 +1,18 @@
+.imgB{
+    justify-content: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    width: 1440px;
+}
+header{
+    background: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+}
