@@ -1,20 +1,119 @@
-.imgB{
-    justify-content: center;
-}
+ 
 body{
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0;
     padding: 0;
-
 }
 main{
     width: 1440px;
+   justify-content: center;
 }
 header{
     background: url(images/bg-header-desktop.png);
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
+    padding-top: 10%;
 }
+p{
+    text-align: center;
+    color: #a5a9ac;
+}
+h1{
+    text-align: center;
+    color: #4f585e;
+}
+.button{
+    width: 210px;
+    padding: 2%;
+    background-color: #27bba4;
+    border: none;
+    border-radius: 60px;
+    color: white;
+    cursor: pointer;
+}
+.button2{
+    width: 210px;
+    padding: 2%;
+    background-color: #6274fe;
+    border: none;
+    border-radius: 60px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.deuxbutton{
+    justify-content: center;
+    display: flex;
+    padding: 4%;
+    padding-bottom: 10%;
+}
+h2{
+    text-align: center;
+    color: #4f585e;
+}
+.sector2{
+    display: flex;
+    padding-bottom: 15%;
+}
+h3{
+    padding-left: 40%;
+    padding-top: 20%;
+}
+.sector1{
+    padding-bottom: 10%;
+}
+.sector3{
+    flex-direction: column;
+    padding-bottom: 8%;
+}
+.tablette{
+    padding-top: 10%;
+}
+.sector4{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 18%;
+}
+.icon1{
+    flex-direction: column;
+    text-align: center;
+}
+h4{
+    color: #4f585e;
+}
+.sector5{
+    display: flex;
+    justify-content: space-around;
+}
+.sectorfinale{
+    padding-top: 16%;
+}
+.footer{
+    background-color: #f4f6f8;
+    padding: 2%;
+}
+.logo{
+    width: 45px;
+}
+.iconsresaux{
+  text-align: end;
+  display: flex;
+}
+.lesliens{
+    display: flex;
+   justify-content: space-around;
+}
+.liens1{
+ flex-direction: column;
+}
+.li{
+    text-decoration: none;
+    color: #4f585e;
+}
+
+
+
+
+
